@@ -1,209 +1,3062 @@
 [
-  {
-    "Produto": "Livro Grampo (canoa)",
-    "Tamanho": "14x21",
-    "Campo": "Shrink",
-    "Opção": "Sem Shrink",
-    "Preço Fixo": "-",
-    "Preço/Unidade": "R$ 25,50",
-    "Preço/Página": "-"
-  },
-  {
-    "Produto": "Livro Grampo (canoa)",
-    "Tamanho": "14x21",
-    "Campo": "Shrink",
-    "Opção": "Com Shrink",
-    "Preço Fixo": "-",
-    "Preço/Unidade": "R$ 28,00",
-    "Preço/Página": "-"
-  },
-  {
-    "Produto": "Livro Grampo (canoa)",
-    "Tamanho": "A4",
-    "Campo": "Shrink",
-    "Opção": "Sem Shrink",
-    "Preço Fixo": "-",
-    "Preço/Unidade": "R$ 32,00",
-    "Preço/Página": "-"
-  },
-  {
-    "Produto": "Livro Grampo (canoa)",
-    "Tamanho": "A4",
-    "Campo": "Shrink",
-    "Opção": "Com Shrink",
-    "Preço Fixo": "-",
-    "Preço/Unidade": "R$ 35,50",
-    "Preço/Página": "-"
-  },
-  {
-    "Produto": "Revista Grampo",
-    "Tamanho": "14x21",
-    "Campo": "Capa",
-    "Opção": "Capa Comum",
-    "Preço Fixo": "-",
-    "Preço/Unidade": "R$ 45,00",
-    "Preço/Página": "R$ 0,15"
-  },
-  {
-    "Produto": "Revista Grampo",
-    "Tamanho": "14x21",
-    "Campo": "Capa",
-    "Opção": "Capa Premium",
-    "Preço Fixo": "-",
-    "Preço/Unidade": "R$ 52,00",
-    "Preço/Página": "R$ 0,18"
-  },
-  {
-    "Produto": "Revista Grampo",
-    "Tamanho": "A4",
-    "Campo": "Capa",
-    "Opção": "Capa Comum",
-    "Preço Fixo": "-",
-    "Preço/Unidade": "R$ 58,00",
-    "Preço/Página": "R$ 0,20"
-  },
-  {
-    "Produto": "Revista Grampo",
-    "Tamanho": "A4",
-    "Campo": "Capa",
-    "Opção": "Capa Premium",
-    "Preço Fixo": "-",
-    "Preço/Unidade": "R$ 65,00",
-    "Preço/Página": "R$ 0,23"
-  },
-  {
-    "Produto": "Caderno Espiral",
-    "Tamanho": "A5",
-    "Campo": "Acabamento",
-    "Opção": "Simples",
-    "Preço Fixo": "R$ 18,50",
-    "Preço/Unidade": "-",
-    "Preço/Página": "-"
-  },
-  {
-    "Produto": "Caderno Espiral",
-    "Tamanho": "A5",
-    "Campo": "Acabamento",
-    "Opção": "Premium",
-    "Preço Fixo": "R$ 24,00",
-    "Preço/Unidade": "-",
-    "Preço/Página": "-"
-  },
-  {
-    "Produto": "Caderno Espiral",
-    "Tamanho": "A4",
-    "Campo": "Acabamento",
-    "Opção": "Simples",
-    "Preço Fixo": "R$ 22,00",
-    "Preço/Unidade": "-",
-    "Preço/Página": "-"
-  },
-  {
-    "Produto": "Caderno Espiral",
-    "Tamanho": "A4",
-    "Campo": "Acabamento",
-    "Opção": "Premium",
-    "Preço Fixo": "R$ 28,50",
-    "Preço/Unidade": "-",
-    "Preço/Página": "-"
-  },
-  {
-    "Produto": "Cartão de Visita",
-    "Tamanho": "9x5cm",
-    "Campo": "Papel",
-    "Opção": "Papel Comum",
-    "Preço Fixo": "R$ 35,00",
-    "Preço/Unidade": "-",
-    "Preço/Página": "-"
-  },
-  {
-    "Produto": "Cartão de Visita",
-    "Tamanho": "9x5cm",
-    "Campo": "Papel",
-    "Opção": "Papel Premium",
-    "Preço Fixo": "R$ 48,00",
-    "Preço/Unidade": "-",
-    "Preço/Página": "-"
-  },
-  {
-    "Produto": "Cartão de Visita",
-    "Tamanho": "9x5cm",
-    "Campo": "Papel",
-    "Opção": "Papel Fosco",
-    "Preço Fixo": "R$ 55,00",
-    "Preço/Unidade": "-",
-    "Preço/Página": "-"
-  },
-  {
-    "Produto": "Banner",
-    "Tamanho": "120x80cm",
-    "Campo": "Material",
-    "Opção": "Lona",
-    "Preço Fixo": "R$ 85,00",
-    "Preço/Unidade": "-",
-    "Preço/Página": "-"
-  },
-  {
-    "Produto": "Banner",
-    "Tamanho": "120x80cm",
-    "Campo": "Material",
-    "Opção": "Vinil",
-    "Preço Fixo": "R$ 95,00",
-    "Preço/Unidade": "-",
-    "Preço/Página": "-"
-  },
-  {
-    "Produto": "Banner",
-    "Tamanho": "200x80cm",
-    "Campo": "Material",
-    "Opção": "Lona",
-    "Preço Fixo": "R$ 125,00",
-    "Preço/Unidade": "-",
-    "Preço/Página": "-"
-  },
-  {
-    "Produto": "Banner",
-    "Tamanho": "200x80cm",
-    "Campo": "Material",
-    "Opção": "Vinil",
-    "Preço Fixo": "R$ 145,00",
-    "Preço/Unidade": "-",
-    "Preço/Página": "-"
-  },
-  {
-    "Produto": "Flyer",
-    "Tamanho": "A5",
-    "Campo": "Acabamento",
-    "Opção": "Sem Verniz",
-    "Preço Fixo": "-",
-    "Preço/Unidade": "R$ 0,25",
-    "Preço/Página": "-"
-  },
-  {
-    "Produto": "Flyer",
-    "Tamanho": "A5",
-    "Campo": "Acabamento",
-    "Opção": "Com Verniz",
-    "Preço Fixo": "-",
-    "Preço/Unidade": "R$ 0,35",
-    "Preço/Página": "-"
-  },
-  {
-    "Produto": "Flyer",
-    "Tamanho": "A4",
-    "Campo": "Acabamento",
-    "Opção": "Sem Verniz",
-    "Preço Fixo": "-",
-    "Preço/Unidade": "R$ 0,40",
-    "Preço/Página": "-"
-  },
-  {
-    "Produto": "Flyer",
-    "Tamanho": "A4",
-    "Campo": "Acabamento",
-    "Opção": "Com Verniz",
-    "Preço Fixo": "-",
-    "Preço/Unidade": "R$ 0,55",
-    "Preço/Página": "-"
-  }
+    {
+        "Produto":"Livro Capa Couchê \/ Triplex",
+        "Tamanho":"14x21",
+        "Campo":"ISBN",
+        "Opção":true,
+        "Preço Fixo":149.9,
+        "Preço\/Unidade":"-",
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Couchê \/ Triplex",
+        "Tamanho":"14x21",
+        "Campo":"ISBN",
+        "Opção":false,
+        "Preço Fixo":0,
+        "Preço\/Unidade":"-",
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Couchê \/ Triplex",
+        "Tamanho":"14x21",
+        "Campo":"Impressão da Capa",
+        "Opção":"Impressão da Capa só Frente",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Couchê \/ Triplex",
+        "Tamanho":"14x21",
+        "Campo":"Impressão da Capa",
+        "Opção":"Impressão da Capa Frente e Verso",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":1,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Couchê \/ Triplex",
+        "Tamanho":"14x21",
+        "Campo":"Frente",
+        "Opção":"Colorida",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Couchê \/ Triplex",
+        "Tamanho":"14x21",
+        "Campo":"Frente",
+        "Opção":"Preto \/ Branco",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Couchê \/ Triplex",
+        "Tamanho":"14x21",
+        "Campo":"Frente",
+        "Opção":"Colorido com orelha 6cm",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":1.46,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Couchê \/ Triplex",
+        "Tamanho":"14x21",
+        "Campo":"Frente",
+        "Opção":"Colorido com orelha 7cm",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":1.46,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Couchê \/ Triplex",
+        "Tamanho":"14x21",
+        "Campo":"Frente",
+        "Opção":"Colorido com orelha 8cm",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":1.46,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Couchê \/ Triplex",
+        "Tamanho":"14x21",
+        "Campo":"Frente",
+        "Opção":"Colorido com orelha 10cm",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":2.08,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Couchê \/ Triplex",
+        "Tamanho":"14x21",
+        "Campo":"Frente e Verso",
+        "Opção":"Colorida",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Couchê \/ Triplex",
+        "Tamanho":"14x21",
+        "Campo":"Frente e Verso",
+        "Opção":"Preto \/ Branco",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Couchê \/ Triplex",
+        "Tamanho":"14x21",
+        "Campo":"Frente e Verso",
+        "Opção":"Colorido com orelha 6cm",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":2.26,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Couchê \/ Triplex",
+        "Tamanho":"14x21",
+        "Campo":"Frente e Verso",
+        "Opção":"Colorido com orelha 7cm",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":2.26,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Couchê \/ Triplex",
+        "Tamanho":"14x21",
+        "Campo":"Frente e Verso",
+        "Opção":"Colorido com orelha 8cm",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":2.26,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Couchê \/ Triplex",
+        "Tamanho":"14x21",
+        "Campo":"Frente e Verso",
+        "Opção":"Colorido com orelha 10cm",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":3.28,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Couchê \/ Triplex",
+        "Tamanho":"14x21",
+        "Campo":"Papel para impressão da capa",
+        "Opção":"Couchê Brilho 250g",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Couchê \/ Triplex",
+        "Tamanho":"14x21",
+        "Campo":"Papel para impressão da capa",
+        "Opção":"Couchê Fosco 250g",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Couchê \/ Triplex",
+        "Tamanho":"14x21",
+        "Campo":"Papel para impressão da capa",
+        "Opção":"Triplex 250g",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Couchê \/ Triplex",
+        "Tamanho":"14x21",
+        "Campo":"Acabamento da capa",
+        "Opção":"Laminação Fosco",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Couchê \/ Triplex",
+        "Tamanho":"14x21",
+        "Campo":"Acabamento da capa",
+        "Opção":"Laminação Brilho",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Couchê \/ Triplex",
+        "Tamanho":"14x21",
+        "Campo":"Lombada",
+        "Opção":"Quadrado ( P.U.R. )",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Couchê \/ Triplex",
+        "Tamanho":"14x21",
+        "Campo":"Lombada",
+        "Opção":"Wire-o",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0.9,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Couchê \/ Triplex",
+        "Tamanho":"14x21",
+        "Campo":"Lombada",
+        "Opção":"Espiral",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":-0.6,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Couchê \/ Triplex",
+        "Tamanho":"14x21",
+        "Campo":"Shrink",
+        "Opção":"Sem Shrink",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Couchê \/ Triplex",
+        "Tamanho":"14x21",
+        "Campo":"Shrink",
+        "Opção":"Shrink Adicional",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0.4,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Couchê \/ Triplex",
+        "Tamanho":"14x21",
+        "Campo":"Marcador de página",
+        "Opção":"Nenhum",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Couchê \/ Triplex",
+        "Tamanho":"14x21",
+        "Campo":"Marcador de página",
+        "Opção":"Somente frente",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":1.5,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Couchê \/ Triplex",
+        "Tamanho":"14x21",
+        "Campo":"Marcador de página",
+        "Opção":"Frente e verso",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":1.5,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Couchê \/ Triplex",
+        "Tamanho":"14x21",
+        "Campo":"Diagramação do miolo",
+        "Opção":true,
+        "Preço Fixo":"-",
+        "Preço\/Unidade":"-",
+        "Preço\/Página":2.9
+    },
+    {
+        "Produto":"Livro Capa Couchê \/ Triplex",
+        "Tamanho":"14x21",
+        "Campo":"Diagramação do miolo",
+        "Opção":false,
+        "Preço Fixo":"-",
+        "Preço\/Unidade":"-",
+        "Preço\/Página":0
+    },
+    {
+        "Produto":"Livro Capa Couchê \/ Triplex",
+        "Tamanho":"14x21",
+        "Campo":"Criação de capa profissional",
+        "Opção":true,
+        "Preço Fixo":485,
+        "Preço\/Unidade":"-",
+        "Preço\/Página":"-"
+    },
+    {
+        "Produto":"Livro Capa Couchê \/ Triplex",
+        "Tamanho":"14x21",
+        "Campo":"Criação de capa profissional",
+        "Opção":false,
+        "Preço Fixo":0,
+        "Preço\/Unidade":"-",
+        "Preço\/Página":"-"
+    },
+    {
+        "Produto":"Livro Capa Couchê \/ Triplex",
+        "Tamanho":"14x21",
+        "Campo":"Revisão ortográfica",
+        "Opção":true,
+        "Preço Fixo":"-",
+        "Preço\/Unidade":"-",
+        "Preço\/Página":22.21
+    },
+    {
+        "Produto":"Livro Capa Couchê \/ Triplex",
+        "Tamanho":"14x21",
+        "Campo":"Revisão ortográfica",
+        "Opção":false,
+        "Preço Fixo":"-",
+        "Preço\/Unidade":"-",
+        "Preço\/Página":0
+    },
+    {
+        "Produto":"Livro Capa Couchê \/ Triplex",
+        "Tamanho":"16x23",
+        "Campo":"ISBN",
+        "Opção":"Sim",
+        "Preço Fixo":149.9,
+        "Preço\/Unidade":"-",
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Couchê \/ Triplex",
+        "Tamanho":"16x23",
+        "Campo":"ISBN",
+        "Opção":"Não",
+        "Preço Fixo":0,
+        "Preço\/Unidade":"-",
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Couchê \/ Triplex",
+        "Tamanho":"16x23",
+        "Campo":"Impressão da Capa",
+        "Opção":"Impressão da Capa só Frente",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Couchê \/ Triplex",
+        "Tamanho":"16x23",
+        "Campo":"Impressão da Capa",
+        "Opção":"Impressão da Capa Frente e Verso",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":1,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Couchê \/ Triplex",
+        "Tamanho":"16x23",
+        "Campo":"Frente",
+        "Opção":"Colorida",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Couchê \/ Triplex",
+        "Tamanho":"16x23",
+        "Campo":"Frente",
+        "Opção":"Preto \/ Branco",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Couchê \/ Triplex",
+        "Tamanho":"16x23",
+        "Campo":"Frente",
+        "Opção":"Colorido com orelha 6cm",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":1.46,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Couchê \/ Triplex",
+        "Tamanho":"16x23",
+        "Campo":"Frente",
+        "Opção":"Colorido com orelha 7cm",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":1.46,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Couchê \/ Triplex",
+        "Tamanho":"16x23",
+        "Campo":"Frente",
+        "Opção":"Colorido com orelha 8cm",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":1.46,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Couchê \/ Triplex",
+        "Tamanho":"16x23",
+        "Campo":"Frente",
+        "Opção":"Colorido com orelha 10cm",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":2.08,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Couchê \/ Triplex",
+        "Tamanho":"16x23",
+        "Campo":"Frente e Verso",
+        "Opção":"Colorida",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Couchê \/ Triplex",
+        "Tamanho":"16x23",
+        "Campo":"Frente e Verso",
+        "Opção":"Preto \/ Branco",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Couchê \/ Triplex",
+        "Tamanho":"16x23",
+        "Campo":"Frente e Verso",
+        "Opção":"Colorido com orelha 6cm",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":2.26,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Couchê \/ Triplex",
+        "Tamanho":"16x23",
+        "Campo":"Frente e Verso",
+        "Opção":"Colorido com orelha 7cm",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":2.26,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Couchê \/ Triplex",
+        "Tamanho":"16x23",
+        "Campo":"Frente e Verso",
+        "Opção":"Colorido com orelha 8cm",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":2.26,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Couchê \/ Triplex",
+        "Tamanho":"16x23",
+        "Campo":"Frente e Verso",
+        "Opção":"Colorido com orelha 10cm",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":3.28,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Couchê \/ Triplex",
+        "Tamanho":"16x23",
+        "Campo":"Papel para impressão da capa",
+        "Opção":"Couchê Brilho 250g",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Couchê \/ Triplex",
+        "Tamanho":"16x23",
+        "Campo":"Papel para impressão da capa",
+        "Opção":"Couchê Fosco 250g",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Couchê \/ Triplex",
+        "Tamanho":"16x23",
+        "Campo":"Papel para impressão da capa",
+        "Opção":"Triplex 250g",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Couchê \/ Triplex",
+        "Tamanho":"16x23",
+        "Campo":"Acabamento da capa",
+        "Opção":"Laminação Fosco",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Couchê \/ Triplex",
+        "Tamanho":"16x23",
+        "Campo":"Acabamento da capa",
+        "Opção":"Laminação Brilho",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Couchê \/ Triplex",
+        "Tamanho":"16x23",
+        "Campo":"Lombada",
+        "Opção":"Quadrado ( P.U.R. )",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Couchê \/ Triplex",
+        "Tamanho":"16x23",
+        "Campo":"Lombada",
+        "Opção":"Wire-o",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":1,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Couchê \/ Triplex",
+        "Tamanho":"16x23",
+        "Campo":"Lombada",
+        "Opção":"Espiral",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":-0.7,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Couchê \/ Triplex",
+        "Tamanho":"16x23",
+        "Campo":"Shrink",
+        "Opção":"Sem Shrink",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Couchê \/ Triplex",
+        "Tamanho":"16x23",
+        "Campo":"Shrink",
+        "Opção":"Shrink Adicional",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0.4,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Couchê \/ Triplex",
+        "Tamanho":"16x23",
+        "Campo":"Marcador de página",
+        "Opção":"Nenhum",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Couchê \/ Triplex",
+        "Tamanho":"16x23",
+        "Campo":"Marcador de página",
+        "Opção":"Somente frente",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":1.5,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Couchê \/ Triplex",
+        "Tamanho":"16x23",
+        "Campo":"Marcador de página",
+        "Opção":"Frente e verso",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":1.5,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Couchê \/ Triplex",
+        "Tamanho":"16x23",
+        "Campo":"Diagramação do miolo",
+        "Opção":true,
+        "Preço Fixo":"-",
+        "Preço\/Unidade":"-",
+        "Preço\/Página":2.9
+    },
+    {
+        "Produto":"Livro Capa Couchê \/ Triplex",
+        "Tamanho":"16x23",
+        "Campo":"Diagramação do miolo",
+        "Opção":false,
+        "Preço Fixo":"-",
+        "Preço\/Unidade":"-",
+        "Preço\/Página":0
+    },
+    {
+        "Produto":"Livro Capa Couchê \/ Triplex",
+        "Tamanho":"16x23",
+        "Campo":"Criação de capa profissional",
+        "Opção":true,
+        "Preço Fixo":485,
+        "Preço\/Unidade":"-",
+        "Preço\/Página":"-"
+    },
+    {
+        "Produto":"Livro Capa Couchê \/ Triplex",
+        "Tamanho":"16x23",
+        "Campo":"Criação de capa profissional",
+        "Opção":false,
+        "Preço Fixo":0,
+        "Preço\/Unidade":"-",
+        "Preço\/Página":"-"
+    },
+    {
+        "Produto":"Livro Capa Couchê \/ Triplex",
+        "Tamanho":"16x23",
+        "Campo":"Revisão ortográfica",
+        "Opção":true,
+        "Preço Fixo":"-",
+        "Preço\/Unidade":"-",
+        "Preço\/Página":22.21
+    },
+    {
+        "Produto":"Livro Capa Couchê \/ Triplex",
+        "Tamanho":"16x23",
+        "Campo":"Revisão ortográfica",
+        "Opção":false,
+        "Preço Fixo":"-",
+        "Preço\/Unidade":"-",
+        "Preço\/Página":0
+    },
+    {
+        "Produto":"Livro Capa Couchê \/ Triplex",
+        "Tamanho":"21x29,7",
+        "Campo":"ISBN",
+        "Opção":"Sim",
+        "Preço Fixo":149.9,
+        "Preço\/Unidade":"-",
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Couchê \/ Triplex",
+        "Tamanho":"21x29,7",
+        "Campo":"ISBN",
+        "Opção":"Não",
+        "Preço Fixo":0,
+        "Preço\/Unidade":"-",
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Couchê \/ Triplex",
+        "Tamanho":"21x29,7",
+        "Campo":"Impressão da Capa",
+        "Opção":"Impressão da Capa só Frente",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Couchê \/ Triplex",
+        "Tamanho":"21x29,7",
+        "Campo":"Impressão da Capa",
+        "Opção":"Impressão da Capa Frente e Verso",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":1,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Couchê \/ Triplex",
+        "Tamanho":"21x29,7",
+        "Campo":"Frente",
+        "Opção":"Colorida",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Couchê \/ Triplex",
+        "Tamanho":"21x29,7",
+        "Campo":"Frente",
+        "Opção":"Preto \/ Branco",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Couchê \/ Triplex",
+        "Tamanho":"21x29,7",
+        "Campo":"Frente",
+        "Opção":"Colorido com orelha 6cm",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":1.46,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Couchê \/ Triplex",
+        "Tamanho":"21x29,7",
+        "Campo":"Frente",
+        "Opção":"Colorido com orelha 7cm",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":1.46,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Couchê \/ Triplex",
+        "Tamanho":"21x29,7",
+        "Campo":"Frente",
+        "Opção":"Colorido com orelha 8cm",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":1.46,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Couchê \/ Triplex",
+        "Tamanho":"21x29,7",
+        "Campo":"Frente",
+        "Opção":"Colorido com orelha 10cm",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":2.08,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Couchê \/ Triplex",
+        "Tamanho":"21x29,7",
+        "Campo":"Frente e Verso",
+        "Opção":"Colorida",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Couchê \/ Triplex",
+        "Tamanho":"21x29,7",
+        "Campo":"Frente e Verso",
+        "Opção":"Preto \/ Branco",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Couchê \/ Triplex",
+        "Tamanho":"21x29,7",
+        "Campo":"Frente e Verso",
+        "Opção":"Colorido com orelha 6cm",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":2.26,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Couchê \/ Triplex",
+        "Tamanho":"21x29,7",
+        "Campo":"Frente e Verso",
+        "Opção":"Colorido com orelha 7cm",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":2.26,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Couchê \/ Triplex",
+        "Tamanho":"21x29,7",
+        "Campo":"Frente e Verso",
+        "Opção":"Colorido com orelha 8cm",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":2.26,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Couchê \/ Triplex",
+        "Tamanho":"21x29,7",
+        "Campo":"Frente e Verso",
+        "Opção":"Colorido com orelha 10cm",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":3.28,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Couchê \/ Triplex",
+        "Tamanho":"21x29,7",
+        "Campo":"Papel para impressão da capa",
+        "Opção":"Couchê Brilho 250g",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Couchê \/ Triplex",
+        "Tamanho":"21x29,7",
+        "Campo":"Papel para impressão da capa",
+        "Opção":"Couchê Fosco 250g",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Couchê \/ Triplex",
+        "Tamanho":"21x29,7",
+        "Campo":"Papel para impressão da capa",
+        "Opção":"Triplex 250g",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Couchê \/ Triplex",
+        "Tamanho":"21x29,7",
+        "Campo":"Acabamento da capa",
+        "Opção":"Laminação Fosco",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Couchê \/ Triplex",
+        "Tamanho":"21x29,7",
+        "Campo":"Acabamento da capa",
+        "Opção":"Laminação Brilho",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Couchê \/ Triplex",
+        "Tamanho":"21x29,7",
+        "Campo":"Lombada",
+        "Opção":"Quadrado ( P.U.R. )",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Couchê \/ Triplex",
+        "Tamanho":"21x29,7",
+        "Campo":"Lombada",
+        "Opção":"Wire-o",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":1.8,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Couchê \/ Triplex",
+        "Tamanho":"21x29,7",
+        "Campo":"Lombada",
+        "Opção":"Espiral",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":-1.2,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Couchê \/ Triplex",
+        "Tamanho":"21x29,7",
+        "Campo":"Shrink",
+        "Opção":"Sem Shrink",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Couchê \/ Triplex",
+        "Tamanho":"21x29,7",
+        "Campo":"Shrink",
+        "Opção":"Shrink Adicional",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0.4,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Couchê \/ Triplex",
+        "Tamanho":"21x29,7",
+        "Campo":"Marcador de página",
+        "Opção":"Nenhum",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Couchê \/ Triplex",
+        "Tamanho":"21x29,7",
+        "Campo":"Marcador de página",
+        "Opção":"Somente frente",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":1.5,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Couchê \/ Triplex",
+        "Tamanho":"21x29,7",
+        "Campo":"Marcador de página",
+        "Opção":"Frente e verso",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":1.5,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Couchê \/ Triplex",
+        "Tamanho":"21x29,7",
+        "Campo":"Diagramação do miolo",
+        "Opção":true,
+        "Preço Fixo":"-",
+        "Preço\/Unidade":"-",
+        "Preço\/Página":2.9
+    },
+    {
+        "Produto":"Livro Capa Couchê \/ Triplex",
+        "Tamanho":"21x29,7",
+        "Campo":"Diagramação do miolo",
+        "Opção":false,
+        "Preço Fixo":"-",
+        "Preço\/Unidade":"-",
+        "Preço\/Página":0
+    },
+    {
+        "Produto":"Livro Capa Couchê \/ Triplex",
+        "Tamanho":"21x29,7",
+        "Campo":"Criação de capa profissional",
+        "Opção":true,
+        "Preço Fixo":485,
+        "Preço\/Unidade":"-",
+        "Preço\/Página":"-"
+    },
+    {
+        "Produto":"Livro Capa Couchê \/ Triplex",
+        "Tamanho":"21x29,7",
+        "Campo":"Criação de capa profissional",
+        "Opção":false,
+        "Preço Fixo":0,
+        "Preço\/Unidade":"-",
+        "Preço\/Página":"-"
+    },
+    {
+        "Produto":"Livro Capa Couchê \/ Triplex",
+        "Tamanho":"21x29,7",
+        "Campo":"Revisão ortográfica",
+        "Opção":true,
+        "Preço Fixo":"-",
+        "Preço\/Unidade":"-",
+        "Preço\/Página":22.21
+    },
+    {
+        "Produto":"Livro Capa Couchê \/ Triplex",
+        "Tamanho":"21x29,7",
+        "Campo":"Revisão ortográfica",
+        "Opção":false,
+        "Preço Fixo":"-",
+        "Preço\/Unidade":"-",
+        "Preço\/Página":0
+    },
+    {
+        "Produto":"Livro Capa Dura",
+        "Tamanho":"14x21",
+        "Campo":"ISBN",
+        "Opção":"Sim",
+        "Preço Fixo":149.9,
+        "Preço\/Unidade":"-",
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Dura",
+        "Tamanho":"14x21",
+        "Campo":"ISBN",
+        "Opção":"Não",
+        "Preço Fixo":0,
+        "Preço\/Unidade":"-",
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Dura",
+        "Tamanho":"14x21",
+        "Campo":"Impressão da Capa",
+        "Opção":"Impressão da Capa só Frente",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Dura",
+        "Tamanho":"14x21",
+        "Campo":"Impressão da Capa",
+        "Opção":"Impressão da Capa Frente e Verso",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":1,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Dura",
+        "Tamanho":"14x21",
+        "Campo":"Acabamento da capa",
+        "Opção":"Laminação Fosco",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Dura",
+        "Tamanho":"14x21",
+        "Campo":"Acabamento da capa",
+        "Opção":"Laminação Brilho",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Dura",
+        "Tamanho":"14x21",
+        "Campo":"Lombada",
+        "Opção":"Quadrado ( P.U.R. )",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Dura",
+        "Tamanho":"14x21",
+        "Campo":"Lombada",
+        "Opção":"Wire-o",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0.6,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Dura",
+        "Tamanho":"14x21",
+        "Campo":"Lombada",
+        "Opção":"Espiral",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":-0.6,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Dura",
+        "Tamanho":"14x21",
+        "Campo":"Shrink",
+        "Opção":"Sem Shrink",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Dura",
+        "Tamanho":"14x21",
+        "Campo":"Shrink",
+        "Opção":"Shrink Adicional",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0.4,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Dura",
+        "Tamanho":"14x21",
+        "Campo":"Marcador de página",
+        "Opção":"Nenhum",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Dura",
+        "Tamanho":"14x21",
+        "Campo":"Marcador de página",
+        "Opção":"Somente frente",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":1.5,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Dura",
+        "Tamanho":"14x21",
+        "Campo":"Marcador de página",
+        "Opção":"Frente e verso",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":1.5,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Dura",
+        "Tamanho":"14x21",
+        "Campo":"Diagramação do miolo",
+        "Opção":true,
+        "Preço Fixo":"-",
+        "Preço\/Unidade":"-",
+        "Preço\/Página":2.9
+    },
+    {
+        "Produto":"Livro Capa Dura",
+        "Tamanho":"14x21",
+        "Campo":"Diagramação do miolo",
+        "Opção":false,
+        "Preço Fixo":"-",
+        "Preço\/Unidade":"-",
+        "Preço\/Página":0
+    },
+    {
+        "Produto":"Livro Capa Dura",
+        "Tamanho":"14x21",
+        "Campo":"Criação de capa profissional",
+        "Opção":true,
+        "Preço Fixo":485,
+        "Preço\/Unidade":"-",
+        "Preço\/Página":"-"
+    },
+    {
+        "Produto":"Livro Capa Dura",
+        "Tamanho":"14x21",
+        "Campo":"Criação de capa profissional",
+        "Opção":false,
+        "Preço Fixo":0,
+        "Preço\/Unidade":"-",
+        "Preço\/Página":"-"
+    },
+    {
+        "Produto":"Livro Capa Dura",
+        "Tamanho":"14x21",
+        "Campo":"Revisão ortográfica",
+        "Opção":true,
+        "Preço Fixo":"-",
+        "Preço\/Unidade":"-",
+        "Preço\/Página":22.21
+    },
+    {
+        "Produto":"Livro Capa Dura",
+        "Tamanho":"14x21",
+        "Campo":"Revisão ortográfica",
+        "Opção":false,
+        "Preço Fixo":"-",
+        "Preço\/Unidade":"-",
+        "Preço\/Página":0
+    },
+    {
+        "Produto":"Livro Capa Dura",
+        "Tamanho":"16x23",
+        "Campo":"ISBN",
+        "Opção":"Sim",
+        "Preço Fixo":149.9,
+        "Preço\/Unidade":"-",
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Dura",
+        "Tamanho":"16x23",
+        "Campo":"ISBN",
+        "Opção":"Não",
+        "Preço Fixo":0,
+        "Preço\/Unidade":"-",
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Dura",
+        "Tamanho":"16x23",
+        "Campo":"Impressão da Capa",
+        "Opção":"Impressão da Capa só Frente",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Dura",
+        "Tamanho":"16x23",
+        "Campo":"Impressão da Capa",
+        "Opção":"Impressão da Capa Frente e Verso",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":1.5,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Dura",
+        "Tamanho":"16x23",
+        "Campo":"Acabamento da capa",
+        "Opção":"Laminação Fosco",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Dura",
+        "Tamanho":"16x23",
+        "Campo":"Acabamento da capa",
+        "Opção":"Laminação Brilho",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Dura",
+        "Tamanho":"16x23",
+        "Campo":"Lombada",
+        "Opção":"Quadrado ( P.U.R. )",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Dura",
+        "Tamanho":"16x23",
+        "Campo":"Lombada",
+        "Opção":"Wire-o",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":1,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Dura",
+        "Tamanho":"16x23",
+        "Campo":"Lombada",
+        "Opção":"Espiral",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":-0.7,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Dura",
+        "Tamanho":"16x23",
+        "Campo":"Shrink",
+        "Opção":"Sem Shrink",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Dura",
+        "Tamanho":"16x23",
+        "Campo":"Shrink",
+        "Opção":"Shrink Adicional",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0.4,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Dura",
+        "Tamanho":"16x23",
+        "Campo":"Marcador de página",
+        "Opção":"Nenhum",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Dura",
+        "Tamanho":"16x23",
+        "Campo":"Marcador de página",
+        "Opção":"Somente frente",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":1.5,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Dura",
+        "Tamanho":"16x23",
+        "Campo":"Marcador de página",
+        "Opção":"Frente e verso",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":1.5,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Dura",
+        "Tamanho":"16x23",
+        "Campo":"Diagramação do miolo",
+        "Opção":true,
+        "Preço Fixo":"-",
+        "Preço\/Unidade":"-",
+        "Preço\/Página":2.9
+    },
+    {
+        "Produto":"Livro Capa Dura",
+        "Tamanho":"16x23",
+        "Campo":"Diagramação do miolo",
+        "Opção":false,
+        "Preço Fixo":"-",
+        "Preço\/Unidade":"-",
+        "Preço\/Página":0
+    },
+    {
+        "Produto":"Livro Capa Dura",
+        "Tamanho":"16x23",
+        "Campo":"Criação de capa profissional",
+        "Opção":true,
+        "Preço Fixo":485,
+        "Preço\/Unidade":"-",
+        "Preço\/Página":"-"
+    },
+    {
+        "Produto":"Livro Capa Dura",
+        "Tamanho":"16x23",
+        "Campo":"Criação de capa profissional",
+        "Opção":false,
+        "Preço Fixo":0,
+        "Preço\/Unidade":"-",
+        "Preço\/Página":"-"
+    },
+    {
+        "Produto":"Livro Capa Dura",
+        "Tamanho":"16x23",
+        "Campo":"Revisão ortográfica",
+        "Opção":true,
+        "Preço Fixo":"-",
+        "Preço\/Unidade":"-",
+        "Preço\/Página":22.21
+    },
+    {
+        "Produto":"Livro Capa Dura",
+        "Tamanho":"16x23",
+        "Campo":"Revisão ortográfica",
+        "Opção":false,
+        "Preço Fixo":"-",
+        "Preço\/Unidade":"-",
+        "Preço\/Página":0
+    },
+    {
+        "Produto":"Livro Capa Dura",
+        "Tamanho":"21x29,7",
+        "Campo":"ISBN",
+        "Opção":"Sim",
+        "Preço Fixo":149.9,
+        "Preço\/Unidade":"-",
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Dura",
+        "Tamanho":"21x29,7",
+        "Campo":"ISBN",
+        "Opção":"Não",
+        "Preço Fixo":0,
+        "Preço\/Unidade":"-",
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Dura",
+        "Tamanho":"21x29,7",
+        "Campo":"Impressão da Capa",
+        "Opção":"Impressão da Capa só Frente",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Dura",
+        "Tamanho":"21x29,7",
+        "Campo":"Impressão da Capa",
+        "Opção":"Impressão da Capa Frente e Verso",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":2,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Dura",
+        "Tamanho":"21x29,7",
+        "Campo":"Acabamento da capa",
+        "Opção":"Laminação Fosco",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Dura",
+        "Tamanho":"21x29,7",
+        "Campo":"Acabamento da capa",
+        "Opção":"Laminação Brilho",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Dura",
+        "Tamanho":"21x29,7",
+        "Campo":"Lombada",
+        "Opção":"Quadrado ( P.U.R. )",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Dura",
+        "Tamanho":"21x29,7",
+        "Campo":"Lombada",
+        "Opção":"Wire-o",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":1.8,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Dura",
+        "Tamanho":"21x29,7",
+        "Campo":"Lombada",
+        "Opção":"Espiral",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":-1.2,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Dura",
+        "Tamanho":"21x29,7",
+        "Campo":"Shrink",
+        "Opção":"Sem Shrink",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Dura",
+        "Tamanho":"21x29,7",
+        "Campo":"Shrink",
+        "Opção":"Shrink Adicional",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0.4,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Dura",
+        "Tamanho":"21x29,7",
+        "Campo":"Marcador de página",
+        "Opção":"Nenhum",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Dura",
+        "Tamanho":"21x29,7",
+        "Campo":"Marcador de página",
+        "Opção":"Somente frente",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":1.5,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Dura",
+        "Tamanho":"21x29,7",
+        "Campo":"Marcador de página",
+        "Opção":"Frente e verso",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":1.5,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Capa Dura",
+        "Tamanho":"21x29,7",
+        "Campo":"Diagramação do miolo",
+        "Opção":true,
+        "Preço Fixo":"-",
+        "Preço\/Unidade":"-",
+        "Preço\/Página":2.9
+    },
+    {
+        "Produto":"Livro Capa Dura",
+        "Tamanho":"21x29,7",
+        "Campo":"Diagramação do miolo",
+        "Opção":false,
+        "Preço Fixo":"-",
+        "Preço\/Unidade":"-",
+        "Preço\/Página":0
+    },
+    {
+        "Produto":"Livro Capa Dura",
+        "Tamanho":"21x29,7",
+        "Campo":"Criação de capa profissional",
+        "Opção":true,
+        "Preço Fixo":485,
+        "Preço\/Unidade":"-",
+        "Preço\/Página":"-"
+    },
+    {
+        "Produto":"Livro Capa Dura",
+        "Tamanho":"21x29,7",
+        "Campo":"Criação de capa profissional",
+        "Opção":false,
+        "Preço Fixo":0,
+        "Preço\/Unidade":"-",
+        "Preço\/Página":"-"
+    },
+    {
+        "Produto":"Livro Capa Dura",
+        "Tamanho":"21x29,7",
+        "Campo":"Revisão ortográfica",
+        "Opção":true,
+        "Preço Fixo":"-",
+        "Preço\/Unidade":"-",
+        "Preço\/Página":22.21
+    },
+    {
+        "Produto":"Livro Capa Dura",
+        "Tamanho":"21x29,7",
+        "Campo":"Revisão ortográfica",
+        "Opção":false,
+        "Preço Fixo":"-",
+        "Preço\/Unidade":"-",
+        "Preço\/Página":0
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"14x21",
+        "Campo":"Produto",
+        "Opção":"Livro Grampo (canoa)",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0.6,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"14x21",
+        "Campo":"ISBN",
+        "Opção":"Sim",
+        "Preço Fixo":149.9,
+        "Preço\/Unidade":"-",
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"14x21",
+        "Campo":"ISBN",
+        "Opção":"Não",
+        "Preço Fixo":0,
+        "Preço\/Unidade":"-",
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"14x21",
+        "Campo":"Impressão da Capa",
+        "Opção":"Impressão da Capa só Frente",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"14x21",
+        "Campo":"Impressão da Capa",
+        "Opção":"Impressão da Capa Frente e Verso",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"14x21",
+        "Campo":"Frente",
+        "Opção":"Couchê",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":5.15025,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"14x21",
+        "Campo":"Frente",
+        "Opção":"Triplex",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":4.62525,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"14x21",
+        "Campo":"Frente e Verso",
+        "Opção":"Couchê",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":5.67525,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"14x21",
+        "Campo":"Frente e Verso",
+        "Opção":"Triplex",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":5.15025,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"14x21",
+        "Campo":"Papel para impressão da capa",
+        "Opção":"Couchê Brilho 250g",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"14x21",
+        "Campo":"Papel para impressão da capa",
+        "Opção":"Couchê Fosco 250g",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"14x21",
+        "Campo":"Papel para impressão da capa",
+        "Opção":"Triplex 250g",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"14x21",
+        "Campo":"Acabamento da capa",
+        "Opção":"Laminação Fosco",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0.63,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"14x21",
+        "Campo":"Acabamento da capa",
+        "Opção":"Laminação Brilho",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0.63,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"14x21",
+        "Campo":"Shrink",
+        "Opção":"Sem Shrink",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"14x21",
+        "Campo":"Shrink",
+        "Opção":"Shrink Adicional",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0.4,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"14x21",
+        "Campo":"Marcador de página",
+        "Opção":"Nenhum",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"14x21",
+        "Campo":"Marcador de página",
+        "Opção":"Somente frente",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":1.5,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"14x21",
+        "Campo":"Marcador de página",
+        "Opção":"Frente e verso",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":1.5,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"14x21",
+        "Campo":"Diagramação do miolo",
+        "Opção":true,
+        "Preço Fixo":"-",
+        "Preço\/Unidade":"-",
+        "Preço\/Página":2.9
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"14x21",
+        "Campo":"Diagramação do miolo",
+        "Opção":false,
+        "Preço Fixo":"-",
+        "Preço\/Unidade":"-",
+        "Preço\/Página":0
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"14x21",
+        "Campo":"Criação de capa profissional",
+        "Opção":true,
+        "Preço Fixo":485,
+        "Preço\/Unidade":"-",
+        "Preço\/Página":"-"
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"14x21",
+        "Campo":"Criação de capa profissional",
+        "Opção":false,
+        "Preço Fixo":0,
+        "Preço\/Unidade":"-",
+        "Preço\/Página":"-"
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"14x21",
+        "Campo":"Revisão ortográfica",
+        "Opção":true,
+        "Preço Fixo":"-",
+        "Preço\/Unidade":"-",
+        "Preço\/Página":22.21
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"14x21",
+        "Campo":"Revisão ortográfica",
+        "Opção":false,
+        "Preço Fixo":"-",
+        "Preço\/Unidade":"-",
+        "Preço\/Página":0
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"16x23",
+        "Campo":"Produto",
+        "Opção":"Livro Grampo (canoa)",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0.6,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"16x23",
+        "Campo":"ISBN",
+        "Opção":"Sim",
+        "Preço Fixo":149.9,
+        "Preço\/Unidade":"-",
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"16x23",
+        "Campo":"ISBN",
+        "Opção":"Não",
+        "Preço Fixo":0,
+        "Preço\/Unidade":"-",
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"16x23",
+        "Campo":"Impressão da Capa",
+        "Opção":"Impressão da Capa só Frente",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"16x23",
+        "Campo":"Impressão da Capa",
+        "Opção":"Impressão da Capa Frente e Verso",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"16x23",
+        "Campo":"Frente",
+        "Opção":"Couchê",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":5.22375,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"16x23",
+        "Campo":"Frente",
+        "Opção":"Triplex",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":4.69875,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"16x23",
+        "Campo":"Frente e Verso",
+        "Opção":"Couchê",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":5.74875,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"16x23",
+        "Campo":"Frente e Verso",
+        "Opção":"Triplex",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":5.22375,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"16x23",
+        "Campo":"Papel para impressão da capa",
+        "Opção":"Couchê Brilho 250g",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"16x23",
+        "Campo":"Papel para impressão da capa",
+        "Opção":"Couchê Fosco 250g",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"16x23",
+        "Campo":"Papel para impressão da capa",
+        "Opção":"Triplex 250g",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"16x23",
+        "Campo":"Acabamento da capa",
+        "Opção":"Laminação Fosco",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0.63,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"16x23",
+        "Campo":"Acabamento da capa",
+        "Opção":"Laminação Brilho",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0.63,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"16x23",
+        "Campo":"Shrink",
+        "Opção":"Sem Shrink",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"16x23",
+        "Campo":"Shrink",
+        "Opção":"Shrink Adicional",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0.4,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"16x23",
+        "Campo":"Marcador de página",
+        "Opção":"Nenhum",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"16x23",
+        "Campo":"Marcador de página",
+        "Opção":"Somente frente",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":1.5,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"16x23",
+        "Campo":"Marcador de página",
+        "Opção":"Frente e verso",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":1.5,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"16x23",
+        "Campo":"Diagramação do miolo",
+        "Opção":true,
+        "Preço Fixo":"-",
+        "Preço\/Unidade":"-",
+        "Preço\/Página":2.9
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"16x23",
+        "Campo":"Diagramação do miolo",
+        "Opção":false,
+        "Preço Fixo":"-",
+        "Preço\/Unidade":"-",
+        "Preço\/Página":0
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"16x23",
+        "Campo":"Criação de capa profissional",
+        "Opção":true,
+        "Preço Fixo":485,
+        "Preço\/Unidade":"-",
+        "Preço\/Página":"-"
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"16x23",
+        "Campo":"Criação de capa profissional",
+        "Opção":false,
+        "Preço Fixo":0,
+        "Preço\/Unidade":"-",
+        "Preço\/Página":"-"
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"16x23",
+        "Campo":"Revisão ortográfica",
+        "Opção":true,
+        "Preço Fixo":"-",
+        "Preço\/Unidade":"-",
+        "Preço\/Página":22.21
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"16x23",
+        "Campo":"Revisão ortográfica",
+        "Opção":false,
+        "Preço Fixo":"-",
+        "Preço\/Unidade":"-",
+        "Preço\/Página":0
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"21x29,7",
+        "Campo":"Produto",
+        "Opção":"Livro Grampo (canoa)",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0.6,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"21x29,7",
+        "Campo":"ISBN",
+        "Opção":"Sim",
+        "Preço Fixo":149.9,
+        "Preço\/Unidade":"-",
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"21x29,7",
+        "Campo":"ISBN",
+        "Opção":"Não",
+        "Preço Fixo":0,
+        "Preço\/Unidade":"-",
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"21x29,7",
+        "Campo":"Impressão da Capa",
+        "Opção":"Impressão da Capa só Frente",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"21x29,7",
+        "Campo":"Impressão da Capa",
+        "Opção":"Impressão da Capa Frente e Verso",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"21x29,7",
+        "Campo":"Frente",
+        "Opção":"Couchê",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":7.119,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"21x29,7",
+        "Campo":"Frente",
+        "Opção":"Triplex",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":6.594,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"21x29,7",
+        "Campo":"Frente e Verso",
+        "Opção":"Couchê",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":7.644,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"21x29,7",
+        "Campo":"Frente e Verso",
+        "Opção":"Triplex",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":7.119,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"21x29,7",
+        "Campo":"Papel para impressão da capa",
+        "Opção":"Couchê Brilho 250g",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"21x29,7",
+        "Campo":"Papel para impressão da capa",
+        "Opção":"Couchê Fosco 250g",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"21x29,7",
+        "Campo":"Papel para impressão da capa",
+        "Opção":"Triplex 250g",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"21x29,7",
+        "Campo":"Acabamento da capa",
+        "Opção":"Laminação Fosco",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0.63,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"21x29,7",
+        "Campo":"Acabamento da capa",
+        "Opção":"Laminação Brilho",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0.63,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"21x29,7",
+        "Campo":"Shrink",
+        "Opção":"Sem Shrink",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"21x29,7",
+        "Campo":"Shrink",
+        "Opção":"Shrink Adicional",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0.4,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"21x29,7",
+        "Campo":"Marcador de página",
+        "Opção":"Nenhum",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"21x29,7",
+        "Campo":"Marcador de página",
+        "Opção":"Somente frente",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":1.5,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"21x29,7",
+        "Campo":"Marcador de página",
+        "Opção":"Frente e verso",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":1.5,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"21x29,7",
+        "Campo":"Diagramação do miolo",
+        "Opção":true,
+        "Preço Fixo":"-",
+        "Preço\/Unidade":"-",
+        "Preço\/Página":2.9
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"21x29,7",
+        "Campo":"Diagramação do miolo",
+        "Opção":false,
+        "Preço Fixo":"-",
+        "Preço\/Unidade":"-",
+        "Preço\/Página":0
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"21x29,7",
+        "Campo":"Criação de capa profissional",
+        "Opção":true,
+        "Preço Fixo":485,
+        "Preço\/Unidade":"-",
+        "Preço\/Página":"-"
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"21x29,7",
+        "Campo":"Criação de capa profissional",
+        "Opção":false,
+        "Preço Fixo":0,
+        "Preço\/Unidade":"-",
+        "Preço\/Página":"-"
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"21x29,7",
+        "Campo":"Revisão ortográfica",
+        "Opção":true,
+        "Preço Fixo":"-",
+        "Preço\/Unidade":"-",
+        "Preço\/Página":22.21
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"21x29,7",
+        "Campo":"Revisão ortográfica",
+        "Opção":false,
+        "Preço Fixo":"-",
+        "Preço\/Unidade":"-",
+        "Preço\/Página":0
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"21x14",
+        "Campo":"Produto",
+        "Opção":"Livro Grampo (canoa)",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0.6,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"21x14",
+        "Campo":"ISBN",
+        "Opção":"Sim",
+        "Preço Fixo":149.9,
+        "Preço\/Unidade":"-",
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"21x14",
+        "Campo":"ISBN",
+        "Opção":"Não",
+        "Preço Fixo":0,
+        "Preço\/Unidade":"-",
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"21x14",
+        "Campo":"Impressão da Capa",
+        "Opção":"Impressão da Capa só Frente",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"21x14",
+        "Campo":"Impressão da Capa",
+        "Opção":"Impressão da Capa Frente e Verso",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"21x14",
+        "Campo":"Frente",
+        "Opção":"Couchê",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":5.15025,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"21x14",
+        "Campo":"Frente",
+        "Opção":"Triplex",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":4.62525,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"21x14",
+        "Campo":"Frente e Verso",
+        "Opção":"Couchê",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":5.67525,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"21x14",
+        "Campo":"Frente e Verso",
+        "Opção":"Triplex",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":5.15025,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"21x14",
+        "Campo":"Papel para impressão da capa",
+        "Opção":"Couchê Brilho 250g",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"21x14",
+        "Campo":"Papel para impressão da capa",
+        "Opção":"Couchê Fosco 250g",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"21x14",
+        "Campo":"Papel para impressão da capa",
+        "Opção":"Triplex 250g",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"21x14",
+        "Campo":"Acabamento da capa",
+        "Opção":"Laminação Fosco",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0.63,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"21x14",
+        "Campo":"Acabamento da capa",
+        "Opção":"Laminação Brilho",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0.63,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"21x14",
+        "Campo":"Shrink",
+        "Opção":"Sem Shrink",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"21x14",
+        "Campo":"Shrink",
+        "Opção":"Shrink Adicional",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0.4,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"21x14",
+        "Campo":"Marcador de página",
+        "Opção":"Nenhum",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"21x14",
+        "Campo":"Marcador de página",
+        "Opção":"Somente frente",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":1.5,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"21x14",
+        "Campo":"Marcador de página",
+        "Opção":"Frente e verso",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":1.5,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"21x14",
+        "Campo":"Diagramação do miolo",
+        "Opção":true,
+        "Preço Fixo":"-",
+        "Preço\/Unidade":"-",
+        "Preço\/Página":2.9
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"21x14",
+        "Campo":"Diagramação do miolo",
+        "Opção":false,
+        "Preço Fixo":"-",
+        "Preço\/Unidade":"-",
+        "Preço\/Página":0
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"21x14",
+        "Campo":"Criação de capa profissional",
+        "Opção":true,
+        "Preço Fixo":485,
+        "Preço\/Unidade":"-",
+        "Preço\/Página":"-"
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"21x14",
+        "Campo":"Criação de capa profissional",
+        "Opção":false,
+        "Preço Fixo":0,
+        "Preço\/Unidade":"-",
+        "Preço\/Página":"-"
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"21x14",
+        "Campo":"Revisão ortográfica",
+        "Opção":true,
+        "Preço Fixo":"-",
+        "Preço\/Unidade":"-",
+        "Preço\/Página":22.21
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"21x14",
+        "Campo":"Revisão ortográfica",
+        "Opção":false,
+        "Preço Fixo":"-",
+        "Preço\/Unidade":"-",
+        "Preço\/Página":0
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"23x16",
+        "Campo":"Produto",
+        "Opção":"Livro Grampo (canoa)",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0.6,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"23x16",
+        "Campo":"ISBN",
+        "Opção":"Sim",
+        "Preço Fixo":149.9,
+        "Preço\/Unidade":"-",
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"23x16",
+        "Campo":"ISBN",
+        "Opção":"Não",
+        "Preço Fixo":0,
+        "Preço\/Unidade":"-",
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"23x16",
+        "Campo":"Impressão da Capa",
+        "Opção":"Impressão da Capa só Frente",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"23x16",
+        "Campo":"Impressão da Capa",
+        "Opção":"Impressão da Capa Frente e Verso",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"23x16",
+        "Campo":"Frente",
+        "Opção":"Couchê",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":5.22375,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"23x16",
+        "Campo":"Frente",
+        "Opção":"Triplex",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":4.69875,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"23x16",
+        "Campo":"Frente e Verso",
+        "Opção":"Couchê",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":5.74875,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"23x16",
+        "Campo":"Frente e Verso",
+        "Opção":"Triplex",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":5.22375,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"23x16",
+        "Campo":"Papel para impressão da capa",
+        "Opção":"Couchê Brilho 250g",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"23x16",
+        "Campo":"Papel para impressão da capa",
+        "Opção":"Couchê Fosco 250g",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"23x16",
+        "Campo":"Papel para impressão da capa",
+        "Opção":"Triplex 250g",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"23x16",
+        "Campo":"Acabamento da capa",
+        "Opção":"Laminação Fosco",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0.63,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"23x16",
+        "Campo":"Acabamento da capa",
+        "Opção":"Laminação Brilho",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0.63,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"23x16",
+        "Campo":"Shrink",
+        "Opção":"Sem Shrink",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"23x16",
+        "Campo":"Shrink",
+        "Opção":"Shrink Adicional",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0.4,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"23x16",
+        "Campo":"Marcador de página",
+        "Opção":"Nenhum",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"23x16",
+        "Campo":"Marcador de página",
+        "Opção":"Somente frente",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":1.5,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"23x16",
+        "Campo":"Marcador de página",
+        "Opção":"Frente e verso",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":1.5,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"23x16",
+        "Campo":"Diagramação do miolo",
+        "Opção":true,
+        "Preço Fixo":"-",
+        "Preço\/Unidade":"-",
+        "Preço\/Página":2.9
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"23x16",
+        "Campo":"Diagramação do miolo",
+        "Opção":false,
+        "Preço Fixo":"-",
+        "Preço\/Unidade":"-",
+        "Preço\/Página":0
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"23x16",
+        "Campo":"Criação de capa profissional",
+        "Opção":true,
+        "Preço Fixo":485,
+        "Preço\/Unidade":"-",
+        "Preço\/Página":"-"
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"23x16",
+        "Campo":"Criação de capa profissional",
+        "Opção":false,
+        "Preço Fixo":0,
+        "Preço\/Unidade":"-",
+        "Preço\/Página":"-"
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"23x16",
+        "Campo":"Revisão ortográfica",
+        "Opção":true,
+        "Preço Fixo":"-",
+        "Preço\/Unidade":"-",
+        "Preço\/Página":22.21
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"23x16",
+        "Campo":"Revisão ortográfica",
+        "Opção":false,
+        "Preço Fixo":"-",
+        "Preço\/Unidade":"-",
+        "Preço\/Página":0
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"29,7x21",
+        "Campo":"Produto",
+        "Opção":"Livro Grampo (canoa)",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0.6,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"29,7x21",
+        "Campo":"ISBN",
+        "Opção":"Sim",
+        "Preço Fixo":149.9,
+        "Preço\/Unidade":"-",
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"29,7x21",
+        "Campo":"ISBN",
+        "Opção":"Não",
+        "Preço Fixo":0,
+        "Preço\/Unidade":"-",
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"29,7x21",
+        "Campo":"Impressão da Capa",
+        "Opção":"Impressão da Capa só Frente",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"29,7x21",
+        "Campo":"Impressão da Capa",
+        "Opção":"Impressão da Capa Frente e Verso",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"29,7x21",
+        "Campo":"Frente",
+        "Opção":"Couchê",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":7.119,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"29,7x21",
+        "Campo":"Frente",
+        "Opção":"Triplex",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":6.594,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"29,7x21",
+        "Campo":"Frente e Verso",
+        "Opção":"Couchê",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":7.644,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"29,7x21",
+        "Campo":"Frente e Verso",
+        "Opção":"Triplex",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":7.119,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"29,7x21",
+        "Campo":"Papel para impressão da capa",
+        "Opção":"Couchê Brilho 250g",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"29,7x21",
+        "Campo":"Papel para impressão da capa",
+        "Opção":"Couchê Fosco 250g",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"29,7x21",
+        "Campo":"Papel para impressão da capa",
+        "Opção":"Triplex 250g",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"29,7x21",
+        "Campo":"Acabamento da capa",
+        "Opção":"Laminação Fosco",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0.63,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"29,7x21",
+        "Campo":"Acabamento da capa",
+        "Opção":"Laminação Brilho",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0.63,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"29,7x21",
+        "Campo":"Shrink",
+        "Opção":"Sem Shrink",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"29,7x21",
+        "Campo":"Shrink",
+        "Opção":"Shrink Adicional",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0.4,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"29,7x21",
+        "Campo":"Marcador de página",
+        "Opção":"Nenhum",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"29,7x21",
+        "Campo":"Marcador de página",
+        "Opção":"Somente frente",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":1.5,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"29,7x21",
+        "Campo":"Marcador de página",
+        "Opção":"Frente e verso",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":1.5,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"29,7x21",
+        "Campo":"Diagramação do miolo",
+        "Opção":true,
+        "Preço Fixo":"-",
+        "Preço\/Unidade":"-",
+        "Preço\/Página":2.9
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"29,7x21",
+        "Campo":"Diagramação do miolo",
+        "Opção":false,
+        "Preço Fixo":"-",
+        "Preço\/Unidade":"-",
+        "Preço\/Página":0
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"29,7x21",
+        "Campo":"Criação de capa profissional",
+        "Opção":true,
+        "Preço Fixo":485,
+        "Preço\/Unidade":"-",
+        "Preço\/Página":"-"
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"29,7x21",
+        "Campo":"Criação de capa profissional",
+        "Opção":false,
+        "Preço Fixo":0,
+        "Preço\/Unidade":"-",
+        "Preço\/Página":"-"
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"29,7x21",
+        "Campo":"Revisão ortográfica",
+        "Opção":true,
+        "Preço Fixo":"-",
+        "Preço\/Unidade":"-",
+        "Preço\/Página":22.21
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"29,7x21",
+        "Campo":"Revisão ortográfica",
+        "Opção":false,
+        "Preço Fixo":"-",
+        "Preço\/Unidade":"-",
+        "Preço\/Página":0
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"20x20",
+        "Campo":"Produto",
+        "Opção":"Livro Grampo (canoa)",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0.6,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"20x20",
+        "Campo":"ISBN",
+        "Opção":"Sim",
+        "Preço Fixo":149.9,
+        "Preço\/Unidade":"-",
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"20x20",
+        "Campo":"ISBN",
+        "Opção":"Não",
+        "Preço Fixo":0,
+        "Preço\/Unidade":"-",
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"20x20",
+        "Campo":"Impressão da Capa",
+        "Opção":"Impressão da Capa só Frente",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"20x20",
+        "Campo":"Impressão da Capa",
+        "Opção":"Impressão da Capa Frente e Verso",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"20x20",
+        "Campo":"Frente",
+        "Opção":"Couchê",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":7.119,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"20x20",
+        "Campo":"Frente",
+        "Opção":"Triplex",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":6.39975,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"20x20",
+        "Campo":"Frente e Verso",
+        "Opção":"Couchê",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":6.92475,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"20x20",
+        "Campo":"Frente e Verso",
+        "Opção":"Triplex",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":6.39975,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"20x20",
+        "Campo":"Papel para impressão da capa",
+        "Opção":"Couchê Brilho 250g",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"20x20",
+        "Campo":"Papel para impressão da capa",
+        "Opção":"Couchê Fosco 250g",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"20x20",
+        "Campo":"Papel para impressão da capa",
+        "Opção":"Triplex 250g",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"20x20",
+        "Campo":"Acabamento da capa",
+        "Opção":"Laminação Fosco",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0.63,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"20x20",
+        "Campo":"Acabamento da capa",
+        "Opção":"Laminação Brilho",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0.63,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"20x20",
+        "Campo":"Shrink",
+        "Opção":"Sem Shrink",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"20x20",
+        "Campo":"Shrink",
+        "Opção":"Shrink Adicional",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0.4,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"20x20",
+        "Campo":"Marcador de página",
+        "Opção":"Nenhum",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":0,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"20x20",
+        "Campo":"Marcador de página",
+        "Opção":"Somente frente",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":1.5,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"20x20",
+        "Campo":"Marcador de página",
+        "Opção":"Frente e verso",
+        "Preço Fixo":"-",
+        "Preço\/Unidade":1.5,
+        "Preço\/Página":null
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"20x20",
+        "Campo":"Diagramação do miolo",
+        "Opção":true,
+        "Preço Fixo":"-",
+        "Preço\/Unidade":"-",
+        "Preço\/Página":2.9
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"20x20",
+        "Campo":"Diagramação do miolo",
+        "Opção":false,
+        "Preço Fixo":"-",
+        "Preço\/Unidade":"-",
+        "Preço\/Página":0
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"20x20",
+        "Campo":"Criação de capa profissional",
+        "Opção":true,
+        "Preço Fixo":485,
+        "Preço\/Unidade":"-",
+        "Preço\/Página":"-"
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"20x20",
+        "Campo":"Criação de capa profissional",
+        "Opção":false,
+        "Preço Fixo":0,
+        "Preço\/Unidade":"-",
+        "Preço\/Página":"-"
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"20x20",
+        "Campo":"Revisão ortográfica",
+        "Opção":true,
+        "Preço Fixo":"-",
+        "Preço\/Unidade":"-",
+        "Preço\/Página":22.21
+    },
+    {
+        "Produto":"Livro Grampo (canoa)",
+        "Tamanho":"20x20",
+        "Campo":"Revisão ortográfica",
+        "Opção":false,
+        "Preço Fixo":"-",
+        "Preço\/Unidade":"-",
+        "Preço\/Página":0
+    }
 ]
